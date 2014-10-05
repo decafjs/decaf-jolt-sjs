@@ -1,0 +1,11 @@
+{
+  "name": "decaf-jolt-sjs",
+  "version": "0.0.1",
+  "main": "index.js",
+  "ignore": [
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
